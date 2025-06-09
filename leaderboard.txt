@@ -1,0 +1,11 @@
+
+
+bibisha,1
+computer,0
+bb,-1
+bibisha,-1
+comp,-2
+bb,-1
+computer,-1
+bibisha,-1
+ram,-2
